@@ -1,0 +1,2 @@
+# snake game
+ The Snake Game is a classic arcade game developed in Python, where players control a growing snake to eat food while avoiding collisions. Key features include:  Dynamic Length Tracking: Uses lists to manage the snake’s length and position. Collision Detection: Implements checks for self-collisions and boundaries. Real-Time Scoring: Updates and displays the score as the snake consumes food. This project highlights essential programming concepts and game mechanics.
